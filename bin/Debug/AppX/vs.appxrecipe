@@ -1,0 +1,120 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>VM</Machine>
+    <WindowsUser>Milan</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>012a4fa6-d5bf-4a2a-acf7-a4491cc4c212</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\Milan\Documents\SDK\SDK\SampleCode\CS\ModernAndMobileApps\ModernOdataApp\obj\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>D7B8F599C13F67A23696F2C5E2BA93CEE03108421C2F92D06A3C080B6B5DD2B7</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>012a4fa6-d5bf-4a2a-acf7-a4491cc4c212_1.0.0.0_neutral__8tq8vagqae34j</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>012a4fa6-d5bf-4a2a-acf7-a4491cc4c212_8tq8vagqae34j!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>012a4fa6-d5bf-4a2a-acf7-a4491cc4c212</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Boss</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Milan\Documents\SDK\SDK\SampleCode\CS\ModernAndMobileApps\ModernOdataApp\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-06-22T14:49:36.278</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Milan\Documents\SDK\SDK\SampleCode\CS\ModernAndMobileApps\ModernOdataApp\bin\Debug\CrmOdataApp.exe">
+      <PackagePath>CrmOdataApp.exe</PackagePath>
+      <Modified>2014-06-22T14:49:35.523</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Milan\Documents\SDK\SDK\SampleCode\CS\ModernAndMobileApps\ModernOdataApp\packages\Microsoft.Preview.WindowsAzure.ActiveDirectory.Authentication.0.6.1\lib\netcore45\Microsoft.Preview.WindowsAzure.ActiveDirectory.Authentication.winmd">
+      <PackagePath>Microsoft.Preview.WindowsAzure.ActiveDirectory.Authentication.winmd</PackagePath>
+      <Modified>2014-06-22T11:51:44.201</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Milan\Documents\SDK\SDK\SampleCode\CS\ModernAndMobileApps\ModernOdataApp\Assets\Logo.scale-140.png">
+      <PackagePath>Assets\Logo.scale-140.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-04-09T13:08:08.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Milan\Documents\SDK\SDK\SampleCode\CS\ModernAndMobileApps\ModernOdataApp\Assets\Logo.scale-180.png">
+      <PackagePath>Assets\Logo.scale-180.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-04-09T13:08:08.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Milan\Documents\SDK\SDK\SampleCode\CS\ModernAndMobileApps\ModernOdataApp\Assets\MainPage\Accounts.png">
+      <PackagePath>Assets\MainPage\Accounts.png</PackagePath>
+      <Modified>2014-04-09T13:08:08.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Milan\Documents\SDK\SDK\SampleCode\CS\ModernAndMobileApps\ModernOdataApp\Assets\MainPage\Contacts.PNG">
+      <PackagePath>Assets\MainPage\Contacts.PNG</PackagePath>
+      <Modified>2014-04-09T13:08:08.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Milan\Documents\SDK\SDK\SampleCode\CS\ModernAndMobileApps\ModernOdataApp\Assets\MainPage\Leads.png">
+      <PackagePath>Assets\MainPage\Leads.png</PackagePath>
+      <Modified>2014-04-09T13:08:08.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Milan\Documents\SDK\SDK\SampleCode\CS\ModernAndMobileApps\ModernOdataApp\Assets\MainPage\Opportunities.png">
+      <PackagePath>Assets\MainPage\Opportunities.png</PackagePath>
+      <Modified>2014-04-09T13:08:08.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Milan\Documents\SDK\SDK\SampleCode\CS\ModernAndMobileApps\ModernOdataApp\Assets\MainPage\Placeholder.png">
+      <PackagePath>Assets\MainPage\Placeholder.png</PackagePath>
+      <Modified>2014-04-09T13:08:08.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Milan\Documents\SDK\SDK\SampleCode\CS\ModernAndMobileApps\ModernOdataApp\Assets\MainPage\Tasks.png">
+      <PackagePath>Assets\MainPage\Tasks.png</PackagePath>
+      <Modified>2014-04-09T13:08:08.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Milan\Documents\SDK\SDK\SampleCode\CS\ModernAndMobileApps\ModernOdataApp\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-04-09T13:08:08.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Milan\Documents\SDK\SDK\SampleCode\CS\ModernAndMobileApps\ModernOdataApp\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-04-09T13:08:08.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Milan\Documents\SDK\SDK\SampleCode\CS\ModernAndMobileApps\ModernOdataApp\Assets\SplashScreen.scale-140.png">
+      <PackagePath>Assets\SplashScreen.scale-140.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-04-09T13:08:08.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Milan\Documents\SDK\SDK\SampleCode\CS\ModernAndMobileApps\ModernOdataApp\Assets\SplashScreen.scale-180.png">
+      <PackagePath>Assets\SplashScreen.scale-180.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-04-09T13:08:08.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Milan\Documents\SDK\SDK\SampleCode\CS\ModernAndMobileApps\ModernOdataApp\Common\ReadMe.txt">
+      <PackagePath>Common\ReadMe.txt</PackagePath>
+      <Modified>2014-04-09T13:08:08.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Milan\Documents\SDK\SDK\SampleCode\CS\ModernAndMobileApps\ModernOdataApp\bin\Debug\App.xaml">
+      <PackagePath>App.xaml</PackagePath>
+      <Modified>2014-04-09T13:08:08.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Milan\Documents\SDK\SDK\SampleCode\CS\ModernAndMobileApps\ModernOdataApp\bin\Debug\Common\StandardStyles.xaml">
+      <PackagePath>Common\StandardStyles.xaml</PackagePath>
+      <Modified>2014-04-09T13:08:10.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Milan\Documents\SDK\SDK\SampleCode\CS\ModernAndMobileApps\ModernOdataApp\bin\Debug\MainPage.xaml">
+      <PackagePath>MainPage.xaml</PackagePath>
+      <Modified>2014-04-09T13:08:10.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Milan\Documents\SDK\SDK\SampleCode\CS\ModernAndMobileApps\ModernOdataApp\bin\Debug\Views\AccountsView.xaml">
+      <PackagePath>Views\AccountsView.xaml</PackagePath>
+      <Modified>2014-04-09T13:08:10.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Milan\Documents\SDK\SDK\SampleCode\CS\ModernAndMobileApps\ModernOdataApp\bin\Debug\Views\TasksView.xaml">
+      <PackagePath>Views\TasksView.xaml</PackagePath>
+      <Modified>2014-04-09T13:08:10.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Milan\Documents\SDK\SDK\SampleCode\CS\ModernAndMobileApps\ModernOdataApp\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2014-06-22T11:51:47.276</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
